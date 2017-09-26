@@ -13,8 +13,8 @@ function yourAnimal() {
   return function hard() {
     return animal;
   }
-  
-} 
+
+}
 
 function add2(n) {
   return n + two
